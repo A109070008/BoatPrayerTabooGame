@@ -1,3 +1,1 @@
 BoatPrayerTabooGame
-BoatPrayerTabooGame
-BoatPrayerTabooGame
