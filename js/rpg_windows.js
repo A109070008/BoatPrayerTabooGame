@@ -5751,7 +5751,6 @@ Window_TitleCommand.prototype.updatePlacement = function() {
 Window_TitleCommand.prototype.makeCommandList = function() {
     this.addCommand(TextManager.newGame,   'newGame');
     this.addCommand(TextManager.options,   'options');
-    this.addCommand("專題網站查看",   'webLink');
 };
 
 Window_TitleCommand.prototype.isContinueEnabled = function() {
